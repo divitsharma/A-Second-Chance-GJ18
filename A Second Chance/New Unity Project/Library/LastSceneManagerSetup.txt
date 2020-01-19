@@ -1,0 +1,4 @@
+sceneSetups:
+- path: C:/Users/Divit/Desktop/git-repos/A-Second-Chance-GJ18/A Second Chance/Assets/Scenes/lobby.unity
+  isLoaded: 1
+  isActive: 1
